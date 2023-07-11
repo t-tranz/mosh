@@ -620,3 +620,15 @@ a {
     margin: 0 auto;
 }
 
+/* NavigationBar */
+
+.nav {
+    background:#000;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__list {
+    width: 100%;
+    flex-wrap: wrap;
+}
