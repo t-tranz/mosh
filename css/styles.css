@@ -216,6 +216,13 @@ a {
     white-space: nowrap; /* не смещает текст на новую строку */
 }
 
+.btn .icon {
+    width: 2rem;
+    height: 2rem;
+    margin-right: 1rem;
+    vertical-align: middle;
+}
+
 .btn--primary {
     background-color: var(--color-primery);
     color: white;
